@@ -9,7 +9,7 @@ A simple Streamlit app that uses Pydantic AI agents and Tavily search to answer 
 
 ## Example Case
 
-<img src="images/example.png" height=500px width=850px/>
+<img src="images/example.png" height=500px width=500px/>
 
 ## Setup
 
