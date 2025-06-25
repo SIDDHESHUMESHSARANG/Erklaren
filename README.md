@@ -1,10 +1,15 @@
 # 📜 Erklären
 
+<img src="https://img.shields.io/badge/MIT-green?style=for-the-badge" />
 A simple Streamlit app that uses Pydantic AI agents and Tavily search to answer user queries with up-to-date information.
 
 ## Features
 - Ask questions and get answers using Groq LLMs and Tavily search.
 - Streamlit web interface for easy interaction.
+
+## Example Case
+
+<img src="images/example.png" height=500px width=850px/>
 
 ## Setup
 
